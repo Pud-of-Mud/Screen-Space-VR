@@ -1,7 +1,7 @@
 # Screen-Space-VR
 A backup and archive of the public VRChat world called 'Screen Space'. 
 
-**Current Version: 1.0**
+**Current Version: 1.1.0**
 
 ## Demo
 A VRChat Public Demo can be found here:
